@@ -4,6 +4,7 @@ The newest update version for these third-party libraries - Update everyday!
   RxJava/RxAndroid:
     compile 'io.reactivex:rxjava:1.1.6' // RxJava
     compile 'io.reactivex:rxandroid:1.2.1' // RxAndroid providing Android Scheduler
+    
   Rxbinding: 
     compile 'com.jakewharton.rxbinding:rxbinding:0.4.0'
     compile 'com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0'
